@@ -101,11 +101,11 @@ def get_product_data():
 def main():
     url_metro = "https://online.metro-cc.ru/"
     url_card = "https://online.metro-cc.ru/category/chaj-kofe-kakao/chay?page="
-    pages = 1
+    pages = 4  # сколько страниц нужно спарсить (для чая максимально 11)
     get_product_href(url_card, pages)
     # with open("data/link.txt")
     get_product_data()
-    with open("data/items.json", "w+") as f:
+    with open("data/items.json", "w") as f:
         json.dump(datas, f, indent=4, ensure_ascii=False)
     print(f"Данные записаны по пути 'data/items.json'")
     # print(len(href_list))

@@ -1,5 +1,485 @@
 [
     {
+        "url": "https://online.metro-cc.ru/products/greenfield-chernyj-kenyan-sunrise-25x2g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 147695\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-listovoj-s-chabrecom-400g",
+        "new_price": "459",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 641402\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-erl-grej-400g",
+        "new_price": "519",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 544483\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-zelenyj-molochnyj-oolong-20x2g",
+        "new_price": "309",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 407590\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/100g-azerchaj-buket-chern-bajhovyj-kar-up",
+        "new_price": "159",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 120706\n          ",
+        "brand": "\n        АЗЕРЧАЙ\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-curtis-blue-berries-blues-piramidki-20x18g",
+        "new_price": "79",
+        "old_price": "109",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 58918\n          ",
+        "brand": "\n        CURTIS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-200g",
+        "new_price": "199",
+        "old_price": "251",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 395515\n          ",
+        "brand": "\n        МАЙСКИЙ\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/majskij-chernyj-otbornyj-cejlon-100x2g",
+        "new_price": "189",
+        "old_price": "223",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 395535\n          ",
+        "brand": "\n        МАЙСКИЙ\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/richard-chernyj-bajhovyj-royl-ceylon-v-sashe-100-2g",
+        "new_price": "279",
+        "old_price": "369",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 539331\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-flying-dragon-zelenyj-200-g",
+        "new_price": "239",
+        "old_price": "289",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 393831\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/173g-chay-rioba-assorti-paketirovannyy-9-vkusov",
+        "new_price": "479",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 211767\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-english-breakfast-100x2g",
+        "new_price": "359",
+        "old_price": "529",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 38353\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-erl-grej-20x2g",
+        "new_price": "249",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 405468\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-assam-20x2g",
+        "new_price": "247",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 406037\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/200g-chay-riston-elite-ceylon-chyornyy-listovoy",
+        "new_price": "259",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 207117\n          ",
+        "brand": "\n        RISTON\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/richard-chernyj-bajhovyj-lord-grey-v-sashe-25-pak",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 539333\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-100-pak-395514",
+        "new_price": "189",
+        "old_price": "223",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 395514\n          ",
+        "brand": "\n        МАЙСКИЙ\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-zelenyj-izumrudnye-spiralki-20x2g",
+        "new_price": "256",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 407592\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-anglijskij-zavtrak-20x2g",
+        "new_price": "275",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 642426\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/tess-chernyj-s-chabrecom-cedroj-limona-thyme-100-15g",
+        "new_price": "239",
+        "old_price": "359",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 626078\n          ",
+        "brand": "\n        TESS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-napitok-rojbush-zemlyanichnyj-20x2g",
+        "new_price": "285",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 586879\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-chernyj-cejlonskij-bajhovyj-s-aromatom-bergamota-earl-grey-fantasy-sashe-25-2g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 469147\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-klassicheskij-25h2g",
+        "new_price": "89",
+        "old_price": "96",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 544091\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-travyanoj-rich-camomile-25x15g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 148576\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-zelenyj-bajhovyj-imbirnyj-apelsin-20x2g",
+        "new_price": "247",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 509617\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-earl-grey-200g-468922",
+        "new_price": "399",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 468922\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/40g-chay-richman-oolong-mangopersik",
+        "new_price": "129",
+        "old_price": "196",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 225137\n          ",
+        "brand": "\n        RICHMAN\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-bajhovyj-melkij-s-zhasminom-jasmine-green-tea-100-pak",
+        "new_price": "359",
+        "old_price": "519",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 270368\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/zelenyj-curtis-fresh-mojito-20x18g",
+        "new_price": "79",
+        "old_price": "109",
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 501419\n          ",
+        "brand": "\n        CURTIS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-zelenyj-zelenyj-sencha-400g",
+        "new_price": "839",
+        "old_price": null,
+        "name": "\n    Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г\n  ",
+        "id_product": "\n            Артикул: 544485\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/25x2g-chay-richard-kings-tea-1-chyornyy-myatatsitrus",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 205248\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/newby-zelenyj-jasmine-blossom-50-2g",
+        "new_price": "1 419",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 288495\n          ",
+        "brand": "\n        NEWBY\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/akbar-chernyj-klassicheskij-100h2g",
+        "new_price": "229",
+        "old_price": "329",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 455331\n          ",
+        "brand": "\n        AKBAR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-chernyj-kenyan-sunrise-200g",
+        "new_price": "239",
+        "old_price": "289",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 457294\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-richard-royal-english-breakfast-25-paketikov",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 644132\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-zelenyj-bajhovyj-dlya-zavarivaniya-v-chajnike-molochnyj-ulun-20-5g",
+        "new_price": "409",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 495166\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-erl-grej-20x5g",
+        "new_price": "409",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 495168\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-matcha-zelenyj-100g",
+        "new_price": "669",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 97770\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/althaus-royal-earl-grey-v-paketikah-20-175g",
+        "new_price": "449",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 611964\n          ",
+        "brand": "\n        ALTHAUS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chay-richard-royal-lemon-paketirovannyy-25-x-17g",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 136223\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/richard-chernyj-bajhovyj-royl-ceylon-v-sashe-25-pak",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 539335\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-chernyj-slassic-breakfast-100x2g",
+        "new_price": "299",
+        "old_price": "359",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 494566\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-fruktovo-yagodno-travyanoj-summer-bouquet-25x2g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 469047\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/art_592282",
+        "new_price": "109",
+        "old_price": "163",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 592282\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/akbar-chernyj-mountain-fresh-100-2g",
+        "new_price": "229",
+        "old_price": "293",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 250785\n          ",
+        "brand": "\n        AKBAR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/25h2g-chay-akbar-mountain-fresh-chyornyy-paketirovannyy",
+        "new_price": "59",
+        "old_price": "94",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 207128\n          ",
+        "brand": "\n        AKBAR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/25h2g-chay-richard-chyornyy-apelsin-koritsa-paketirovan",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 204640\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/basilur-chernyj-magic-nights-100g",
+        "new_price": "419",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 524040\n          ",
+        "brand": "\n        BASILUR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-zelyonyj-s-zhasminom",
+        "new_price": "149",
+        "old_price": "169",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 121853\n          ",
+        "brand": "\n        ЧЁРНЫЙ ДРАКОН\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-molochnyj-zelenyj",
+        "new_price": "149",
+        "old_price": "169",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 121854\n          ",
+        "brand": "\n        ЧЁРНЫЙ ДРАКОН\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-basilur-uba-100h2g",
+        "new_price": "559",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 549450\n          ",
+        "brand": "\n        BASILUR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-napitok-naglyj-frukt-400g",
+        "new_price": "759",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 544481\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/curtis-mango-20-piramidok-h-18-g",
+        "new_price": "79",
+        "old_price": "109",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 662550\n          ",
+        "brand": "\n        CURTIS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chay-chernyy-richard-all-the-best-wishes-80g",
+        "new_price": "539",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 227791\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-listovoj-s-aromatom-bergamota-english-tea-no1-200g",
+        "new_price": "299",
+        "old_price": "409",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 468915\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-akbar-ceylon-100h2g",
+        "new_price": "229",
+        "old_price": "293",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 324335\n          ",
+        "brand": "\n        AKBAR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-ceylon-high-mountain-200g",
+        "new_price": "299",
+        "old_price": "409",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 468918\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-newby-pride-of-africa-100g",
+        "new_price": "829",
+        "old_price": null,
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 539763\n          ",
+        "brand": "\n        NEWBY\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/24shth18g-chaynyy-napitok-herbarus-spokoystviebalans",
+        "new_price": "189",
+        "old_price": "259",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 225809\n          ",
+        "brand": "\n        HERBARUS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-richard-royal-english-breakfast-100x2g",
+        "new_price": "279",
+        "old_price": "369",
+        "name": "\n    Чай Richard Tea №1 черный мята-цитрус (2г х 25шт), 50г\n  ",
+        "id_product": "\n            Артикул: 624919\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
         "url": "https://online.metro-cc.ru/products/40g-chay-chernyy-richman-angliyskiy-zavtrak",
         "new_price": "129",
         "old_price": "194",
@@ -238,5 +718,245 @@
         "name": "\n    Чай черный Richman английский завтрак, 40г\n  ",
         "id_product": "\n            Артикул: 288497\n          ",
         "brand": "\n        NEWBY\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-newby-ceylon-50-2g",
+        "new_price": "1 199",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 288494\n          ",
+        "brand": "\n        NEWBY\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/30h195g-chay-curtis-dessert-tea-collection-assorti",
+        "new_price": "249",
+        "old_price": "339",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 204647\n          ",
+        "brand": "\n        CURTIS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-zelenyj-molochnyj-ulun-400g",
+        "new_price": "519",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 544484\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-napitok-romashka-14x15g",
+        "new_price": "191",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 642427\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/100h15g-chay-akbar-chyornyy-malinachernika-pak",
+        "new_price": "249",
+        "old_price": "379",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 207124\n          ",
+        "brand": "\n        AKBAR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-napitok-wildberry-rooibos-s-kusochkami-yagod-zemlyaniki-klyukvy-25-pak",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 633258\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-chernyj-cejlonskij-english-edition-100x2g",
+        "new_price": "299",
+        "old_price": "359",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 633256\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-s-chabrecom-20x5g",
+        "new_price": "409",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 495163\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/art_578788",
+        "new_price": "349",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 578788\n          ",
+        "brand": "\n        АЗЕРЧАЙ\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-listovoj-klassicheskij-classic-black-tea-200g",
+        "new_price": "249",
+        "old_price": "269",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 583705\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/filtr-pakety-basilur-dlya-zavarivaniya-listovogo-chaya-80-sht",
+        "new_price": "299",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 533427\n          ",
+        "brand": "\n        BASILUR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/maitre-assorti-exslusive-collection-12-vkusov-v-sashe-60-pak",
+        "new_price": "389",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 646226\n          ",
+        "brand": "\n        MAITRE DE THE\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chay-richard-godzhi-i-zemlyanika-paketirovannyy-25-x-17g",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 136224\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-nabor-assorti-laquofour-season-rsquos-raquo-15-vkusov-v-kartonnoj-korobke-90-sashe",
+        "new_price": "749",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 588355\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/newby-chernyj-english-breakfast-100g",
+        "new_price": "779",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 207721\n          ",
+        "brand": "\n        NEWBY\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/art_592281",
+        "new_price": "109",
+        "old_price": "169",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 592281\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-zelenyj-s-myatoj-melissoj-green-melissa-25x15g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 469044\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-s-zhasminom-zelenyj-25h2-g",
+        "new_price": "140",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 567788\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-s-aromatom-bergamota-earl-grey-25-pak",
+        "new_price": "99",
+        "old_price": "130",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 468916\n          ",
+        "brand": "\n        AHMAD TEA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-anglijskij-zavtrak-20x5g",
+        "new_price": "409",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 495160\n          ",
+        "brand": "\n        RIOBA\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-zelenyj-s-aromatom-persika-cedroj-mandarina-peach-mellow-25-18g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 633257\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-zelenyj-jasmine-dream-100x2g",
+        "new_price": "299",
+        "old_price": "359",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 494567\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-chernyj-s-aromatom-granata-rastitelnymi-komponentami-grand-fruit-25-pak",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 633259\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/curtis-sunny-lemon-chernyj-20-17g",
+        "new_price": "79",
+        "old_price": "109",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 539426\n          ",
+        "brand": "\n        CURTIS\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/chernyj-newby-assam-50-2g",
+        "new_price": "1 199",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 288503\n          ",
+        "brand": "\n        NEWBY\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/25h17g-chay-richard-smorodina-yabloko-paketirovannyy",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 204643\n          ",
+        "brand": "\n        RICHARD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/basilur-chernyj-zolotoj-ostrov-100g",
+        "new_price": "349",
+        "old_price": null,
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 524043\n          ",
+        "brand": "\n        BASILUR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/greenfield-zelenyj-flying-dragon-25x2g",
+        "new_price": "94",
+        "old_price": "122",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 468822\n          ",
+        "brand": "\n        GREENFIELD\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/akbar-chernyj-bajhovyj-cejlonskij-gold-250g",
+        "new_price": "309",
+        "old_price": "379",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 314845\n          ",
+        "brand": "\n        AKBAR\n      "
+    },
+    {
+        "url": "https://online.metro-cc.ru/products/25h17g-chay-richard-chyornyy-persik-myata-paketirovannyy",
+        "new_price": "89",
+        "old_price": "125",
+        "name": "\n    Чай Newby Ceylon черный (2г x 50шт), 100г\n  ",
+        "id_product": "\n            Артикул: 204641\n          ",
+        "brand": "\n        RICHARD\n      "
     }
 ]
