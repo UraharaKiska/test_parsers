@@ -55,9 +55,6 @@ async def get_page_data(session, page):
                     datas.append(info)
 
                 print(len(datas))
-                # print(href_list)
-
-                    # print(link)
             except (Exception, AttributeError) as ex:
                 print(ex)
                 return None
@@ -71,12 +68,10 @@ async def get_another_data(session, d, i):
             "user-agent": f"{useragent.random}",     
             }
     async with session.get(d["url"], headers=headers) as resp:
-        # print(resp.status)
         if resp.status == 200:
             soup = BeautifulSoup(await resp.text(), "lxml")
             try:
                 wrapper = soup.find("article", class_="product-page-content__wrapper")
-                # name = wrapper.find('h1', class_="product-page-content__product-name").find_next().text
                 prod_id = wrapper.find("p", class_="product-page-content__article").text
                 d['id_product'] = prod_id
             except Exception as ex:
@@ -120,11 +115,9 @@ def main():
     pages = 4  # сколько страниц нужно спарсить (для чая максимально 11)
     asyncio.run(gather_first_data(pages))    
     asyncio.run(gather_another_data())  
-    # get_ahother_data()
     with open("data/items.json", "w") as f:
         json.dump(datas, f, indent=4, ensure_ascii=False)
-    # print(f"Данные записаны по пути 'data/items.json'")
-    # print(len(href_list))
+    print(f"Данные записаны по пути 'data/items.json'")
 
 
 
