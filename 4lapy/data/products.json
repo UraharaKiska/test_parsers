@@ -1,0 +1,2811 @@
+[
+    {
+        "OldPrice": 0,
+        "Price": 2169,
+        "Weight": 50,
+        "ItemId": 138270,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9743",
+            "reviews": "1166",
+            "Артикул": "1050751",
+            "all_IDs": "138270,140423,151161",
+            "offline_buy": "false",
+            "subscribe_price": "2169",
+            "size": "4 кг",
+            "Тип упаковки": "Мешок",
+            "Объем": "0.124",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "4000",
+            "Длина, мм": "483",
+            "Ширина, мм": "270",
+            "Высота, мм": "124"
+        },
+        "GroupId": "151160",
+        "StockId": null,
+        "Size": "4 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n\t OWNAT CLASSIC STERILIZED – это сбалансированный корм для стерилизованных кошек. Стерилизованные кошки и кастрированные коты имеют естественную склонность к ожирению. Именно поэтому данный продукт с",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/classic-korm-dlya-sterilizovannyh-koshek-s-kuricey.html?offer=138270",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/3e0/3e0b0f3facf585624346caf704dc2e00.jpg?nowebp=true",
+        "Name": "Ownat Adult Sterilized Classic Сухой корм для стерилизованных кошек, с курицей, 4 кг"
+    },
+    {
+        "OldPrice": 1179,
+        "Price": 590,
+        "Weight": 49,
+        "ItemId": 146995,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9077",
+            "reviews": "195",
+            "Артикул": "1054023",
+            "all_IDs": "146994,146995",
+            "offline_buy": "false",
+            "subscribe_price": "589.5",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Unica: до -50% на сухой корм для кошек",
+            "special_offer_0_url": "https://4lapy.ru/shares/unica-15-na-sukhoy-korm-dlya-koshek/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.37",
+            "group_id_2": "80000223",
+            "Страна-производитель": "Италия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Тунец",
+            "Вес, г": "1500",
+            "Длина, мм": "105",
+            "Ширина, мм": "195",
+            "Высота, мм": "370"
+        },
+        "GroupId": "146993",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "UNICA",
+        "Description": "\n\t Unica Classe – итальянский сухой корм супер-премиум класса, содержит животный белок в качестве первого компонента, цельнозерновой рис – как самый перевариваемый злак с контролируемым гликемическим ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-tuncom1.html?offer=146995",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/51e/51ecaf1cbc4e2e9b890266d31e50b3ca.jpg?nowebp=true",
+        "Name": "UNICA Adult Sterilized Sensitive сухой корм для стерилизованных кошек с тунцом, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 2745,
+        "Weight": 48,
+        "ItemId": 124629,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9594",
+            "reviews": "789",
+            "Артикул": "1044812",
+            "all_IDs": "117419,124629,151173",
+            "offline_buy": "false",
+            "subscribe_price": "2745",
+            "size": "3 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.12",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "3000",
+            "Длина, мм": "387",
+            "Ширина, мм": "269",
+            "Высота, мм": "120"
+        },
+        "GroupId": "151172",
+        "StockId": null,
+        "Size": "3 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n\n\n\t OWNAT JUST GRAIN FREE. STERILIZED – это сбалансированное питание для взрослых стерилизованных кошек и кастрированных котов, произведённое в Испании.\n\n\n\n\n\t Беззерновой корм с диетическим мясом цып",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/just-korm-dlya-sterilizovannyh-koshek-bezzernovoy-s-kuricey.html?offer=124629",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/164/164c08a0621a44c22ef1b845ee0cb27d.jpg?nowebp=true",
+        "Name": "Ownat Adult Sterilized Корм сухой беззерновой для стерилизованных кошек, с курицей, 3 кг"
+    },
+    {
+        "OldPrice": 2419,
+        "Price": 2056,
+        "Weight": 47,
+        "ItemId": 45708,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9842",
+            "reviews": "571",
+            "Артикул": "1000715",
+            "all_IDs": "41911,43487,43617,45708,140495,140497",
+            "offline_buy": "false",
+            "subscribe_price": "2056.15",
+            "size": "2 кг",
+            "special_offer_0": "Royal Canin: 15% на сухой корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/royal-canin-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.44",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Птица",
+            "Вес, г": "2000",
+            "Длина, мм": "107",
+            "Ширина, мм": "189",
+            "Высота, мм": "440"
+        },
+        "GroupId": "41954",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\n\t Про все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать.\n\n\n\t .\n\n \n \n \n \n \n \n  \n\n\t .\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Sterilised_37_suhoy_korm_dlya_sterilizovannyh_koshek.html?offer=45708",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/acc/acc0c54401f08bd17af4b22852e80cbe.jpg?nowebp=true",
+        "Name": "Royal Canin Sterilised 37 сухой корм для стерилизованных кошек с 1 до 7 лет, 2 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1029,
+        "Weight": 46,
+        "ItemId": 148184,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9394",
+            "reviews": "528",
+            "Артикул": "1054522",
+            "all_IDs": "148183,148184,148185",
+            "offline_buy": "false",
+            "subscribe_price": "1029",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.38",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "1500",
+            "Длина, мм": "60",
+            "Ширина, мм": "170",
+            "Высота, мм": "380"
+        },
+        "GroupId": "148182",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Wellkiss",
+        "Description": "Wellkiss Sterilized корм для кастрированных и стерилизованных кошек с ягнёнком – это полноценный, сбалансированный рацион для взрослых кошек. В состав рациона входят все необходимые для здоровья кошки",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-koshek-steril-s-yagnenkom.html?offer=148184",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/0c3/0c37ae6b7a8a578d92d480e07fb72ab0.png?nowebp=true",
+        "Name": "Wellkiss Adult Sterilized Корм сухой для стерилизованных кошек, с ягненком, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1499,
+        "Weight": 45,
+        "ItemId": 148716,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9841",
+            "reviews": "502",
+            "Артикул": "1054712",
+            "all_IDs": "148714,148716,148718,148720",
+            "offline_buy": "false",
+            "subscribe_price": "1499",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.085",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Все возраста",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "1500",
+            "Длина, мм": "410",
+            "Ширина, мм": "189",
+            "Высота, мм": "85"
+        },
+        "GroupId": "148713",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Mealfeel",
+        "Description": "MEALFEEL STERILIZED – сухой рацион на основе свежего мяса, разработанный специально для стерилизованных кошек и кастрированных котов. \n\nПреимущества:\n\nПолноценный рацион на каждый день.\nВ составе боле",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-yagnenkom1.html?offer=148716",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/387/387ccd6c39d4128c0ebc1921e67b7b24.jpg?nowebp=true",
+        "Name": "Mealfeel Корм сухой для стерилизованных кошек, с ягненком, 1,5 кг"
+    },
+    {
+        "OldPrice": 1699,
+        "Price": 1274,
+        "Weight": 44,
+        "ItemId": 155680,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9574",
+            "reviews": "47",
+            "Артикул": "1056876",
+            "all_IDs": "155680",
+            "offline_buy": "false",
+            "subscribe_price": "1274.25",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Grandin: до -25% на сухой корм для котят",
+            "special_offer_0_url": "https://4lapy.ru/shares/grandin-25-na-sukhoy-korm-dlya-kotyat/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.21",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для малышей",
+            "Вкус корма": "Курица",
+            "Вес, г": "1500",
+            "Длина, мм": "320",
+            "Ширина, мм": "105",
+            "Высота, мм": "210"
+        },
+        "GroupId": "155679",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandin",
+        "Description": "\n GRANDIN Holistic Kitte — это полноценный сбалансированный рацион c курицей для котят в возрасте до 12 месяцев, беременных и кормящий кошек. Корм на основе свежего мяса, содержит все необходимые макр",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-sukhoy-dlya-kotyat-s-kuritsey.html?offer=155680",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/ca8/ca8374ff2221590223700d6a8b97136a.jpg?nowebp=true",
+        "Name": "Grandin Корм сухой для котят, беременных и кормящих кошек, с курицей, 1,5 кг (крупные гранулы)"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 825,
+        "Weight": 43,
+        "ItemId": 138252,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9659",
+            "reviews": "410",
+            "Артикул": "1050748",
+            "all_IDs": "138252,151163",
+            "offline_buy": "false",
+            "subscribe_price": "825",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.0408",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1500",
+            "Длина, мм": "593",
+            "Ширина, мм": "231",
+            "Высота, мм": "40.8"
+        },
+        "GroupId": "151162",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n\t OWNAT CLASSIC DAILY CARE – это сбалансированный корм для кошек. Полнорационный и сбалансированный корм с превосходным вкусом, полученный за счет использования свежего мяса. Разработан для удовлетво",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/classic-korm-dlya-koshek-daily-care-s-kuricey.html?offer=138252",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/80a/80aae90fbab60810d10ce0cf1f0a91b7.jpg?nowebp=true",
+        "Name": "Ownat Classic Сухой корм для кошек Ежедневная забота, с курицей, 1.5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1315,
+        "Weight": 42,
+        "ItemId": 113385,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9874",
+            "reviews": "238",
+            "Артикул": "1040784",
+            "all_IDs": "113385",
+            "offline_buy": "false",
+            "subscribe_price": "1315",
+            "size": "1 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.016",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1000",
+            "Длина, мм": "307",
+            "Ширина, мм": "157",
+            "Высота, мм": "16"
+        },
+        "GroupId": "113384",
+        "StockId": null,
+        "Size": "1 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n OWNAT GRAIN FREE PRIME STERILIZES – это полнорационный сбалансированный корм для стерилизованных кошек и кастрированных котов. Изготовлен из свежего мяса курицы и индейки, богат клетчаткой и содержи",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/ownat-gf-prime-dlya-sterilizovannyh-koshek-1-kg.html?offer=113385",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/f34/f349cdac96bf1c1e0a3a1d768e21c519.jpg?nowebp=true",
+        "Name": "Ownat Adult Sterilized Grain Free Сухой корм для стерилизованных кошек, с курицей и индейкой, 1 кг"
+    },
+    {
+        "OldPrice": 1645,
+        "Price": 1398,
+        "Weight": 41,
+        "ItemId": 113391,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9412",
+            "reviews": "187",
+            "Артикул": "1040789",
+            "all_IDs": "113391,151175",
+            "offline_buy": "false",
+            "subscribe_price": "1398.25",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Ownat: -15% на сухой корм для кошек",
+            "special_offer_0_url": "https://4lapy.ru/shares/ownat-20-na-sukhoy-korm-dlya-koshek-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.326",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1500",
+            "Длина, мм": "135",
+            "Ширина, мм": "162",
+            "Высота, мм": "326"
+        },
+        "GroupId": "151174",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n OWNAT ULTRA. CHICKEN & RICE – это сбалансированное питание для взрослых кошек, произведённое в Испании. В основе корма лежит максимальное количество натуральных ингредиентов: свежее мясо, цельное зе",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/ultra-korm-dlya-koshek-s-kuricey-i-risom.html?offer=113391",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/774/77473b69bf51ce8bc652352d8799c38e.jpg?nowebp=true",
+        "Name": "Ownat Ultra Корм для кошек, с курицей и рисом, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1695,
+        "Weight": 40,
+        "ItemId": 117421,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.962",
+            "reviews": "342",
+            "Артикул": "1042263",
+            "all_IDs": "117421,151177",
+            "offline_buy": "false",
+            "subscribe_price": "1695",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.09",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1500",
+            "Длина, мм": "343",
+            "Ширина, мм": "187",
+            "Высота, мм": "90"
+        },
+        "GroupId": "151176",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n\n\n\t OWNAT ULTRA. STERILIZED – это сбалансированное питание для взрослых стерилизованных кошек и кастрированных котов, произведённое в Испании. В основе корма лежит максимальное количество натуральных",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/ultra-korm-dlya-sterilizovannyh-koshek-s-indeykoy.html?offer=117421",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/a43/a4390e54089afd967dc7a03614bcb805.jpg?nowebp=true",
+        "Name": "Ownat Adult Sterilized Ultra Сухой корм для стерилизованных кошек, с индейкой, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1699,
+        "Weight": 39,
+        "ItemId": 155684,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9846",
+            "reviews": "130",
+            "Артикул": "1056878",
+            "all_IDs": "155682,155684,155686",
+            "offline_buy": "false",
+            "subscribe_price": "1699",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.21",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1500",
+            "Длина, мм": "320",
+            "Ширина, мм": "105",
+            "Высота, мм": "210"
+        },
+        "GroupId": "155683",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandin",
+        "Description": "\n GRANDIN Holistic Sterilized — это полноценный корм для кастрированных котов и стерилизованных кошек в возрасте от 1 года до 7 лет. Содержит специальные ингредиенты, такие как Dl-метионин (аминокисло",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-kuricey1.html?offer=155684",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/285/285e1e799f156c0f4841e4cbf69c39b8.jpg?nowebp=true",
+        "Name": "Grandin Sterilized Grain free Корм сухой для кастрированных котов и стерилизованных кошек в возрасте от 1 года до 7 лет, с курицей, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 3155,
+        "Weight": 38,
+        "ItemId": 112529,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9847",
+            "reviews": "261",
+            "Артикул": "1040175",
+            "all_IDs": "112528,112529",
+            "offline_buy": "false",
+            "subscribe_price": "3155",
+            "size": "2 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.121",
+            "Страна-производитель": "Бельгия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Мясо",
+            "Вес, г": "2000",
+            "Длина, мм": "369",
+            "Ширина, мм": "203",
+            "Высота, мм": "121"
+        },
+        "GroupId": "112527",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandorf",
+        "Description": "\n\t Сухой корм для стерилизованных кошек Четыре вида мяса с бурым рисом. Для взрослых стерилизованных или пожилых кошек от 1 года.\n\n\n\n\n\tНизкое содержание жиров и повышенное содержание белков, а также L",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-sterilizovannyh-koshek-chetyre-vida-myasa-s-burym-risom-400g.html?offer=112529",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/128/1287e967e73062b26c6616fbd09eb53c.jpg?nowebp=true",
+        "Name": "Grandorf Сухой корм для стерилизованных кошек, четыре вида мяса, 2 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1499,
+        "Weight": 37,
+        "ItemId": 148712,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9797",
+            "reviews": "295",
+            "Артикул": "1054710",
+            "all_IDs": "148710,148712",
+            "offline_buy": "false",
+            "subscribe_price": "1499",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.085",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Все возраста",
+            "Вкус корма": "Лосось",
+            "Вес, г": "1500",
+            "Длина, мм": "410",
+            "Ширина, мм": "189",
+            "Высота, мм": "85"
+        },
+        "GroupId": "148709",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Mealfeel",
+        "Description": "MEALFEEL STERILIZED – сухой рацион на основе свежего мяса, разработанный специально для стерилизованных кошек и кастрированных котов. \n\nПреимущества:\n\nПолноценный рацион на каждый день.\n47% ингредиент",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-lososem.html?offer=148712",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/762/7623d71d4d5bdfcf3941aa468c4fa318.jpg?nowebp=true",
+        "Name": "Mealfeel Корм сухой для стерилизованных кошек, с лососем, 1,5 кг"
+    },
+    {
+        "OldPrice": 1819,
+        "Price": 1546,
+        "Weight": 36,
+        "ItemId": 77326,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9754",
+            "reviews": "203",
+            "Артикул": "1026803",
+            "all_IDs": "77326,84505,84506",
+            "offline_buy": "false",
+            "subscribe_price": "1546.15",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Royal Canin: 15% на сухой корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/royal-canin-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.092",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Птица",
+            "Вес, г": "1500",
+            "Длина, мм": "277",
+            "Ширина, мм": "196",
+            "Высота, мм": "92"
+        },
+        "GroupId": "84504",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\n\t Про все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать.\n\n\n\t...\n\n \n \n \n \n \n \n  \n\n\t...\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-koshek-royal-kanin-sterilayzd-7-pak-400-g.html?offer=77326",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/d77/d77b49010f247f670f5595087bcc8138.jpg?nowebp=true",
+        "Name": "Royal Canin Sterilised Сухой корм для стерилизованных кошек старше 7 лет, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 925,
+        "Weight": 35,
+        "ItemId": 138258,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9453",
+            "reviews": "329",
+            "Артикул": "1050749",
+            "all_IDs": "138258,151165",
+            "offline_buy": "false",
+            "subscribe_price": "925",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Рыба",
+            "Вес, г": "1500"
+        },
+        "GroupId": "151164",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "OWNAT CLASSIC FISH – это сбалансированный корм для кошек. Продукт изготовлен из свежей рыбы и содержит дополнительное количество жирных кислот омега-3 и омега-6, которые помогают поддерживать здоровое",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/classic-korm-dlya-koshek-s-ryboy.html?offer=138258",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/8cc/8cc689956ac10074afcf63808d414564.jpg?nowebp=true",
+        "Name": "Ownat Adult Classic Корм сухой для кошек, с рыбой, 1.5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1499,
+        "Weight": 34,
+        "ItemId": 156065,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "5",
+            "reviews": "32",
+            "Артикул": "1057069",
+            "all_IDs": "156064,156065",
+            "offline_buy": "false",
+            "subscribe_price": "1499",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.085",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1500",
+            "Длина, мм": "410",
+            "Ширина, мм": "189",
+            "Высота, мм": "85"
+        },
+        "GroupId": "156063",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Mealfeel",
+        "Description": "\nMealfeel Sterilized – сухой рацион на основе свежего мяса птицы, разработанный специально для стерилизованных кошек и кастрированных котов. Учитывает потребности животных после стерилизации и содержи",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-indeykoy-kuricey-i-utkoy-400g.html?offer=156065",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/6e9/6e9704479a58d3e1503207b50d5ef720.jpg?nowebp=true",
+        "Name": "Mealfeel Functional Nutrition Корм сухой для стерилизованных кошек, с индейкой и уткой, 1,5 кг"
+    },
+    {
+        "OldPrice": 1869,
+        "Price": 1495,
+        "Weight": 33,
+        "ItemId": 41879,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9688",
+            "reviews": "256",
+            "Артикул": "1000002",
+            "all_IDs": "41879,45701,45706,49001",
+            "offline_buy": "false",
+            "subscribe_price": "1495.2",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Pro Plan: до -20% на сухой и влажный корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/pro-plan-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.319",
+            "group_id_2": "80000078",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Лосось",
+            "Вес, г": "1500",
+            "Длина, мм": "188",
+            "Ширина, мм": "97",
+            "Высота, мм": "319"
+        },
+        "GroupId": "41878",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "Внимание! В данный момент у поставщика происходит смена дизайна упаковки, поэтому она может отличаться от представленной на фото.\n\n\t \n\n\n\t .\n\n \n\n\t .\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Pro_Plan_After_Care_suhoy_korm_dlya_kastrirovannyhsterilizovannyh_koshekosostunets.html?offer=41879",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/f45/f45368e740d1deb5cb8cd7ba8b77ebd2.jpg?nowebp=true",
+        "Name": "PRO PLAN® Sterilised Adult Renal Plus Сухой корм для поддержания здоровья почек после стерилизации для взрослых кошек, с лососем, 1,5 кг"
+    },
+    {
+        "OldPrice": 1869,
+        "Price": 1495,
+        "Weight": 32,
+        "ItemId": 41900,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9771",
+            "reviews": "349",
+            "Артикул": "1016698",
+            "all_IDs": "31114,41900,46995,77085",
+            "offline_buy": "false",
+            "subscribe_price": "1495.2",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Pro Plan: до -20% на сухой и влажный корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/pro-plan-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.201",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для пожилых 7+ ",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1500",
+            "Длина, мм": "87",
+            "Ширина, мм": "210",
+            "Высота, мм": "201"
+        },
+        "GroupId": "46994",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "\n\t \n\n\n\t После семи лет кошка входит в почтенный возраст. Ее организм становится более уязвимым: повышается риск заболеваний, снижается когнитивная функция. Дополнительно к особым потребностям, связанн",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Pro_Plan_Sterilised_suhoy_korm_dlya_koshek_starshe_7et_indeyka.html?offer=41900",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/c8a/c8ae2f50ec81b810477127108aabc171.jpg?nowebp=true",
+        "Name": "PRO PLAN® Sterilised сухой корм для пожилых кошек для стерилизованных с индейкой, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 467,
+        "Weight": 31,
+        "ItemId": 41910,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9773",
+            "reviews": "176",
+            "Артикул": "1000723",
+            "all_IDs": "41905,41910,41920,45709,140496,140498",
+            "offline_buy": "false",
+            "subscribe_price": "467",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.245",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Чувствительное пищеварение",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Рис",
+            "Вес, г": "400",
+            "Длина, мм": "78",
+            "Ширина, мм": "137",
+            "Высота, мм": "245"
+        },
+        "GroupId": "41904",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\n\t Про все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать.\n\n\n\t .\n\n \n \n \n \n  \n\n\t .\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Sensible_33_suhoy_korm_dlya_koshek_pri_chuvstvitelnom_pishchevarenii.html?offer=41910",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/f1e/f1e1a01026ea1b0218cc3809792f14f5.jpg?nowebp=true",
+        "Name": "Royal Canin Sensible 33 сухой корм для кошек с чувствительной пищеварительной системой в возрасте с 1 года до 7 лет, 400 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 515,
+        "Weight": 30,
+        "ItemId": 41927,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9908",
+            "reviews": "109",
+            "Артикул": "1002590",
+            "all_IDs": "41915,41927,84517",
+            "offline_buy": "false",
+            "subscribe_price": "515",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.237",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для малышей",
+            "Вкус корма": "Птица",
+            "Вес, г": "400",
+            "Длина, мм": "73",
+            "Ширина, мм": "144",
+            "Высота, мм": "237"
+        },
+        "GroupId": "41914",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\n\t Про все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать..\n\n\n\t.\n\n \n\n\t.\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Babycat_34_korm_suhoy_korm_dlya_kotyat_ot_1_do_4_mes_i_beremennyh_koshek.html?offer=41927",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/732/73286b175d6340948900afd191696e87.jpg?nowebp=true",
+        "Name": "Royal Canin Mother and Babycat корм для котят в возрасте от 1 до 4 месяцев и для беременных/лактирующих кошек, 400 г"
+    },
+    {
+        "OldPrice": 2899,
+        "Price": 2464,
+        "Weight": 29,
+        "ItemId": 41942,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9577",
+            "reviews": "71",
+            "Артикул": "1003903",
+            "all_IDs": "41916,41918,41933,41942",
+            "offline_buy": "false",
+            "subscribe_price": "2464.15",
+            "size": "2 кг",
+            "special_offer_0": "Royal Canin: 15% на сухой корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/royal-canin-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.392",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Птица",
+            "Вес, г": "2000",
+            "Длина, мм": "192",
+            "Ширина, мм": "103",
+            "Высота, мм": "392"
+        },
+        "GroupId": "41960",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\n\t Про все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать.\n\n.\n \n \n \n \n \n \n \n \n.",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_31_Adult_suhoy_korm_dlya_koshek_porody_Meyn_Kun.html?offer=41942",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/0ea/0ea7da7d9deab6bfba7e5b074c669ba8.jpg?nowebp=true",
+        "Name": "Royal Canin Maine Coon Adult корм для кошек породы мейн-кун старше 15 месяцев, 2 кг"
+    },
+    {
+        "OldPrice": 2899,
+        "Price": 2464,
+        "Weight": 28,
+        "ItemId": 43492,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "5",
+            "reviews": "108",
+            "Артикул": "1002777",
+            "all_IDs": "41913,41932,41941,43492",
+            "offline_buy": "false",
+            "subscribe_price": "2464.15",
+            "size": "2 кг",
+            "special_offer_0": "Royal Canin: 15% на сухой корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/royal-canin-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.27",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Птица",
+            "Вес, г": "2000",
+            "Длина, мм": "111",
+            "Ширина, мм": "193",
+            "Высота, мм": "270"
+        },
+        "GroupId": "41956",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\n\t Про все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать.\n\n\n\t.\n\n \n \n \n \n \n \n \n  \n\n\t.\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_34_Adult_suhoy_korm_dlya_koshek_porody_Britanskaya_korotkosherstnaya.html?offer=43492",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/89d/89d8f44c6b278bb91d2308dff8223cb5.jpg?nowebp=true",
+        "Name": "Royal Canin 36 Adult Корм сухой для кошек породы Британская короткошерстная, 2 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 559,
+        "Weight": 27,
+        "ItemId": 45693,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9711",
+            "reviews": "242",
+            "Артикул": "1000008",
+            "all_IDs": "42922,43476,45693,45702,96787,115281",
+            "offline_buy": "false",
+            "subscribe_price": "559",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.241",
+            "group_id_2": "80000078",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "400",
+            "Длина, мм": "84",
+            "Ширина, мм": "177",
+            "Высота, мм": "241"
+        },
+        "GroupId": "42921",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "\n\t \n\n\n\t ...\n\n \n\n\t ...\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Pro_Plan_After_Care_suhoy_korm_dlya_kastrirovannyhsterilizovannyh_koshek_indeykakuritsa.html?offer=45693",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/eb2/eb236a3d67c75bcb45960c8d217fcad0.jpg?nowebp=true",
+        "Name": "PRO PLAN® Sterilised Optirenal Сухой корм для поддержания здоровья почек после стерилизации для взрослых кошек, с индейкой, 400 гр."
+    },
+    {
+        "OldPrice": 0,
+        "Price": 559,
+        "Weight": 26,
+        "ItemId": 45696,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9898",
+            "reviews": "196",
+            "Артикул": "1000010",
+            "all_IDs": "41897,43214,45696,45705,96789",
+            "offline_buy": "false",
+            "subscribe_price": "559",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.232",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Чувствительное пищеварение",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "400",
+            "Длина, мм": "74",
+            "Ширина, мм": "182",
+            "Высота, мм": "232"
+        },
+        "GroupId": "45704",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "\n\t...\n\n \n\n\t...\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Pro_Plan_Delicate_suhoy_korm_dlya_koshek_s_chuvstvitelnym_pishchevareniem_indeykaris.html?offer=45696",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/0d8/0d8c602e1bd76c17d2b2e4c71f50339e.jpg?nowebp=true",
+        "Name": "PRO PLAN® Delicate Сухой корм для взрослых кошек с чувствительным пищеварением, с индейкой, 400 гр."
+    },
+    {
+        "OldPrice": 0,
+        "Price": 559,
+        "Weight": 25,
+        "ItemId": 45699,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9685",
+            "reviews": "286",
+            "Артикул": "1003946",
+            "all_IDs": "41891,41898,45699,45703,96788,102933",
+            "offline_buy": "false",
+            "subscribe_price": "559",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.234",
+            "group_id_2": "80000078",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Кролик",
+            "Вес, г": "400",
+            "Длина, мм": "71",
+            "Ширина, мм": "189",
+            "Высота, мм": "234"
+        },
+        "GroupId": "45698",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "Внимание! Упаковка может отличаться от представленной на фото, так как товар может быть как в старой, так и в новой упаковке.\n\n\t \n\n\n\t .\n\n \n\n\t .\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Pro_Plan_After_Care_suhoy_korm_dlya_kastrirovannyhsterilizovannyh_koshek_kuritsakrolik.html?offer=45699",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/075/07580979de92b0b139ce90502230d38c.jpg?nowebp=true",
+        "Name": "PRO PLAN® Sterilised сухой корм для взрослых кошек для поддержания здоровья почек после стерилизации с кроликом, 400 г"
+    },
+    {
+        "OldPrice": 2555,
+        "Price": 2172,
+        "Weight": 24,
+        "ItemId": 45725,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9714",
+            "reviews": "105",
+            "Артикул": "1000718",
+            "all_IDs": "41901,41917,45725,49437,140499",
+            "offline_buy": "false",
+            "subscribe_price": "2171.75",
+            "size": "2 кг",
+            "special_offer_0": "Royal Canin: 15% на сухой корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/royal-canin-do-20-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.286",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Для привередливых",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Злаки",
+            "Вес, г": "2000",
+            "Длина, мм": "114",
+            "Ширина, мм": "181",
+            "Высота, мм": "286"
+        },
+        "GroupId": "41962",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Royal Canin",
+        "Description": "\nПро все корма для кошек Royal Canin вы можете прочитать в статье «Обзор кормов для кошек Royal Canin» — читать.\n\n\nНекоторые кошки привередливы в питании и часто отказываются от предлагаемого им корма",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/Royal_Canin_Exigent_3530_Savour_Sensation_suhoy_korm_suhoy_dlya_priveredlivyh_koshek.html?offer=45725",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/727/727fd0ee6a5762611bb4c60448827643.jpg?nowebp=true",
+        "Name": "Royal Canin Exigent 35/30 Savour Sensation корм для кошек, привередливых к вкусу продукта, 2 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 559,
+        "Weight": 23,
+        "ItemId": 75555,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9851",
+            "reviews": "134",
+            "Артикул": "1026167",
+            "all_IDs": "75539,75555,75557,75559",
+            "offline_buy": "false",
+            "subscribe_price": "559",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.234",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Чувствительное пищеварение",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "400",
+            "Длина, мм": "81",
+            "Ширина, мм": "181",
+            "Высота, мм": "234"
+        },
+        "GroupId": "75554",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "Внимание! В данный момент у поставщика происходит смена упаковки, поэтому упаковка может отличаться от представленной на фото.\n \n\n\t ...\n",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/proplan-suh-400g-d-koshek-chuvstvitelnoe-pishchevarenie-yagnenok.html?offer=75555",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/8d9/8d91884f9db71e0039501196714a10b0.jpg?nowebp=true",
+        "Name": "PRO PLAN® Delicate сухой корм для взрослых кошек при чувствительном пищеварении с ягненком, 400 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 609,
+        "Weight": 22,
+        "ItemId": 86128,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9769",
+            "reviews": "260",
+            "Артикул": "1030234",
+            "all_IDs": "86128,86129,86130,86131",
+            "offline_buy": "false",
+            "subscribe_price": "609",
+            "size": "400 г",
+            "special_offer_0": "Оставьте отзыв о корме – получите до 300 бонусов",
+            "special_offer_0_url": "https://4lapy.ru/shares/ostav-otzyv-o-produkte-purina-poluchi-do-300-bonusov/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.23",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "400",
+            "Длина, мм": "71",
+            "Ширина, мм": "175",
+            "Высота, мм": "230"
+        },
+        "GroupId": "86127",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "Внимание! Упаковка может отличаться от представленной на фото, так как товар может быть как в старой, так и в новой упаковке.\n\n\t \n\n\n\t После стерилизации подвижность и активность у кошек несколько сниж",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/proplan-suh-400g-dlya-sterilizovannyh-koshek-s-kuricey.html?offer=86128",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/744/744ea9e40dff4f9badbba31b22a0793d.jpg?nowebp=true",
+        "Name": "PRO PLAN® Sterilised сухой корм для взрослых кошек для стерилизованных с чувствительным пищеварением с курицей, 400 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 899,
+        "Weight": 21,
+        "ItemId": 112513,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9832",
+            "reviews": "179",
+            "Артикул": "1040164",
+            "all_IDs": "112513,112514",
+            "offline_buy": "false",
+            "subscribe_price": "899",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.131",
+            "Страна-производитель": "Бельгия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для малышей",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "400",
+            "Длина, мм": "83",
+            "Ширина, мм": "146",
+            "Высота, мм": "131"
+        },
+        "GroupId": "112512",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandorf",
+        "Description": "Внимание! Упаковка может отличаться от представленной на фото, так как товар может быть как в старой, так и в новой упаковке.\n\n Идеально подходит для нежной пищеварительной системы котят. Высокое соде",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-kotyat-yagnenok-s-risom-400g.html?offer=112513",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/ec0/ec0b5ebe4478c1a1b62122262d1f464a.jpg?nowebp=true",
+        "Name": "Grandorf Сухой корм для котят, ягненок с индейкой, 400 гр."
+    },
+    {
+        "OldPrice": 0,
+        "Price": 2919,
+        "Weight": 20,
+        "ItemId": 112517,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9735",
+            "reviews": "113",
+            "Артикул": "1040167",
+            "all_IDs": "112516,112517",
+            "offline_buy": "false",
+            "subscribe_price": "2919",
+            "size": "2 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.12",
+            "Страна-производитель": "Бельгия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "2000",
+            "Длина, мм": "372",
+            "Ширина, мм": "208",
+            "Высота, мм": "120"
+        },
+        "GroupId": "112515",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandorf",
+        "Description": "\nСухой корм для домашних кошек. Для взрослых кошек от 1 года с нормальной активностью. \n\n\nУмеренное содержание белков и жиров способствует поддержанию веса и мышечной массы питомца в оптимальной форме",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-domashnih-koshek-yagnenok-s-risom-400g.html?offer=112517",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/afb/afb1a51223c07a1b02d8e3952e769f53.jpg?nowebp=true",
+        "Name": "Grandorf Сухой корм для домашних кошек, ягненок с индейкой, 2 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 2919,
+        "Weight": 19,
+        "ItemId": 112520,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9744",
+            "reviews": "78",
+            "Артикул": "1040169",
+            "all_IDs": "112519,112520",
+            "offline_buy": "false",
+            "subscribe_price": "2919",
+            "size": "2 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.383",
+            "Страна-производитель": "Бельгия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Кролик",
+            "Вес, г": "2000",
+            "Длина, мм": "207",
+            "Ширина, мм": "122",
+            "Высота, мм": "383"
+        },
+        "GroupId": "112518",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandorf",
+        "Description": "\nСухой корм для стерилизованных кошек Кролик с рисом. Для взрослых стерилизованных или пожилых кошек от 1 года. \n\n\nНизкое содержание жиров и повышенным содержанием белков, а также L-Карнитин, способст",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-sterilizovannyh-koshek-krolik-s-risom-400g.html?offer=112520",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/f43/f43b379a980bdde10bb55144908b0612.jpg?nowebp=true",
+        "Name": "Grandorf Сухой корм для стерилизованных кошек, кролик с индейкой, 2кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 2919,
+        "Weight": 18,
+        "ItemId": 112523,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.975",
+            "reviews": "120",
+            "Артикул": "1040171",
+            "all_IDs": "112522,112523",
+            "offline_buy": "false",
+            "subscribe_price": "2919",
+            "size": "2 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.374",
+            "Страна-производитель": "Бельгия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Белая рыба",
+            "Вес, г": "2000",
+            "Длина, мм": "124",
+            "Ширина, мм": "201",
+            "Высота, мм": "374"
+        },
+        "GroupId": "112521",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandorf",
+        "Description": "\nСухой корм для домашних кошек Белая рыба с бурым рисом. Для кошек от 1 года с проблемной кожей и шерстью или склонных к аллергии.\n\n\nФормула богата мясом океанических рыб, насыщена Омега-6, Омега-3 и ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-domashnih-koshek-belaya-ryba-s-burym-risom-400g.html?offer=112523",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/45b/45b6ec98203123c71f3d1cf0d9da3845.jpg?nowebp=true",
+        "Name": "Grandorf Сухой корм для домашних кошек, белая рыба с индейкой, 2 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 935,
+        "Weight": 17,
+        "ItemId": 112525,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9658",
+            "reviews": "117",
+            "Артикул": "1040172",
+            "all_IDs": "112525,112526",
+            "offline_buy": "false",
+            "subscribe_price": "935",
+            "size": "400 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.23",
+            "Страна-производитель": "Бельгия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Мясо",
+            "Вес, г": "400",
+            "Длина, мм": "76",
+            "Ширина, мм": "136",
+            "Высота, мм": "230"
+        },
+        "GroupId": "112524",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandorf",
+        "Description": "\nСухой корм для домашних кошек Четыре вида мяса с бурым рисом. Для взрослых кошек от 1 года с нормальной активностью.\n\n\n Умеренное содержание белков и жиров способствует поддержанию веса и мышечной ма",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/suhoy-korm-grandorf-dlya-domashnih-koshek-chetyre-vida-myasa-s-burym-risom-400g.html?offer=112525",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/469/469f3f802400768a1f0a14241b68d1a1.jpg?nowebp=true",
+        "Name": "Grandorf Сухой корм для домашних кошек, четыре вида мяса, 400 гр."
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1099,
+        "Weight": 16,
+        "ItemId": 113389,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9778",
+            "reviews": "315",
+            "Артикул": "1040786",
+            "all_IDs": "113389,151171",
+            "offline_buy": "false",
+            "subscribe_price": "1099",
+            "size": "1 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.085",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1000",
+            "Длина, мм": "294",
+            "Ширина, мм": "162",
+            "Высота, мм": "85"
+        },
+        "GroupId": "151170",
+        "StockId": null,
+        "Size": "1 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n\n\n\nOWNAT JUST GRAIN FREE. ADULT CHICKEN\n – это сбалансированное питание для взрослых кошек, произведённое в Испании.\n\n\n\n\n\n\t Беззерновой корм с диетическим мясом цыплёнка не содержит злаки и существен",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/just-korm-dlya-koshek-bezzernovoy-s-kuricey.html?offer=113389",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/e34/e34a8eaf5a8d72c0694098f2974d890c.jpg?nowebp=true",
+        "Name": "Ownat Adult Chicken Корм сухой беззерновой для кошек, с курицей, 1 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1245,
+        "Weight": 15,
+        "ItemId": 124631,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9538",
+            "reviews": "260",
+            "Артикул": "1044815",
+            "all_IDs": "124631,151167",
+            "offline_buy": "false",
+            "subscribe_price": "1245",
+            "size": "1 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.091",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1000",
+            "Длина, мм": "284",
+            "Ширина, мм": "158",
+            "Высота, мм": "91"
+        },
+        "GroupId": "151166",
+        "StockId": null,
+        "Size": "1 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "\n\t OWNAT GRAIN FREE PRIME. ADULT – это сбалансированное питание для взрослых кошек с нормальным уровнем активности класса супер-премиум, произведённое в Испании. \n\t Беззерновой корм с мясом цыплёнка и",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/gf-prime-korm-suhoy-dlya-vzroslyh-koshek-s-kuricey-i-indeykoy.html?offer=124631",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/d7a/d7a9981507e839638d9f055ce353abd7.jpg?nowebp=true",
+        "Name": "Ownat Adult Grain Free Сухой корм для взрослых кошек, с курицей и индейкой, 1 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1869,
+        "Weight": 14,
+        "ItemId": 132686,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "5",
+            "reviews": "39",
+            "Артикул": "1048953",
+            "all_IDs": "132686",
+            "offline_buy": "false",
+            "subscribe_price": "1869",
+            "size": "1 кг 900 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.24",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1900",
+            "Длина, мм": "100",
+            "Ширина, мм": "195",
+            "Высота, мм": "240"
+        },
+        "GroupId": "132685",
+        "StockId": null,
+        "Size": "1 кг 900 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "PRO PLAN®",
+        "Description": "\n\t После стерилизации пищевые потребности кошки меняются. Изменения в гормонах могут привести к снижению физической активности и перееданию. Впоследствии кошка может набирать лишний вес, что увеличива",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/proplan-suh-1-5kg-d-sterkoshaftekeaindkur-1-5kg-400g.html?offer=132686",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/3f8/3f81f89b8f4ffda0afbe2879f64133be.jpg?nowebp=true",
+        "Name": "PRO PLAN® Sterilised Сухой корм для стерилизованных кошек с индейкой, 1,5 кг + 400г"
+    },
+    {
+        "OldPrice": 335,
+        "Price": 268,
+        "Weight": 13,
+        "ItemId": 139532,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.8182",
+            "reviews": "44",
+            "Артикул": "1051397",
+            "all_IDs": "139532,139533,139534,139535",
+            "offline_buy": "false",
+            "subscribe_price": "268",
+            "size": "400 г",
+            "special_offer_0": "Brit: до -25% на сухой и влажный корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/brit-do-25-na-sukhoy-i-vlazhnyy-korm-dlya-koshek-i-sobak-nov-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.21",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Лосось",
+            "Вес, г": "400",
+            "Длина, мм": "135",
+            "Ширина, мм": "50",
+            "Высота, мм": "210"
+        },
+        "GroupId": "139531",
+        "StockId": null,
+        "Size": "400 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Brit",
+        "Description": "\n\t Сухой корм Brit Premium с лососем и курицей предназначен для взрослых стерилизованных кошек. Сбалансированный состав содержит все витамины и минералы, необходимые для ежедневного здорового питания ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/premium-cat-sterilized-salmon-chicken-suhoy-korm-dlya-sterilizovannyh-koshek-s-lososem-i-kuricey-400g.html?offer=139532",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/5a0/5a01a5ae662898092a4279f04d966cf1.jpg?nowebp=true",
+        "Name": "Brit Premium Cat Sterilized Salmon&Chicken сухой корм для стерилизованных кошек с лососем и курицей, 400г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1699,
+        "Weight": 12,
+        "ItemId": 140799,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9878",
+            "reviews": "164",
+            "Артикул": "1051884",
+            "all_IDs": "140799,146399",
+            "offline_buy": "false",
+            "subscribe_price": "1699",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.319",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Индор",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "1500",
+            "Длина, мм": "115",
+            "Ширина, мм": "221",
+            "Высота, мм": "319"
+        },
+        "GroupId": "140798",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Grandin",
+        "Description": "\n\t GRANDIN Holistic Indoor — полноценный рацион с ягненком для домашних кошек в возрасте от 1 года до 7 лет. Данный рацион подходит для кошек, склонных к аллергии. Корм не содержит злаков, снижая таки",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/indoor-suhoy-korm-dlya-koshek-s-yagnenkom.html?offer=140799",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/54a/54a7b22be4b00cadf515d90da42cc575.jpg?nowebp=true",
+        "Name": "Grandin Indoor Сухой корм для кошек, с ягненком, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1749,
+        "Weight": 11,
+        "ItemId": 145769,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9556",
+            "reviews": "135",
+            "Артикул": "1053528",
+            "all_IDs": "145769,145770",
+            "offline_buy": "false",
+            "subscribe_price": "1749",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.091",
+            "Страна-производитель": "Испания",
+            "Специальные показания": "Гипоаллергенный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Рыба",
+            "Вес, г": "1500",
+            "Длина, мм": "345",
+            "Ширина, мм": "199",
+            "Высота, мм": "91"
+        },
+        "GroupId": "145768",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Ownat",
+        "Description": "OWNAT CARE HYPOALLERGENIC – это полноценный и сбалансированный корм, приготовленный из натуральных ингредиентов и свежей рыбы, содержит все основные питательные компоненты в правильных пропорциях, нео",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/ownat-care-korm-dlya-vzroslyh-koshek-hypoallergenic-s-ryboy-pak-1-5kg.html?offer=145769",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/aec/aecbd4d8b35d8d2e991ac0d2b918a43a.jpg?nowebp=true",
+        "Name": "Ownat Adult Care Hypoallergenic Сухой корм гипоаллергенный для взрослых кошек, с рыбой, 1,5 кг"
+    },
+    {
+        "OldPrice": 839,
+        "Price": 713,
+        "Weight": 10,
+        "ItemId": 146223,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9592",
+            "reviews": "49",
+            "Артикул": "1053732",
+            "all_IDs": "146223,146302",
+            "offline_buy": "false",
+            "subscribe_price": "713.15",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Покупайте корма для кошек и собак AlphaPet и участвуйте в розыгрыше жилеток",
+            "special_offer_0_url": "https://4lapy.ru/shares/rozygrysh-alpha-pet/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.351",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Цыпленок",
+            "Вес, г": "1500",
+            "Длина, мм": "85",
+            "Ширина, мм": "205",
+            "Высота, мм": "351"
+        },
+        "GroupId": "146222",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "AlphaPet",
+        "Description": "\n\t Сухой полнорационный корм c цыпленком для взрослых стерилизованных кошек и котов AlphaPet WOW Superpremium.\n\nПреимущества:\n\n\t80% мясного белка;\n\t\n\tСвежее мясо в составе;\n\t\n\tНизкое содержание жира и",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-cyplenkom.html?offer=146223",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/b6c/b6c9abd488e6e0207d876b07ead09710.jpg?nowebp=true",
+        "Name": "AlphaPet WOW Сухой корм для стерилизованных кошек с цыпленком, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 827,
+        "Weight": 9,
+        "ItemId": 146229,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9659",
+            "reviews": "88",
+            "Артикул": "1053736",
+            "all_IDs": "146228,146229",
+            "offline_buy": "false",
+            "subscribe_price": "827",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Покупайте корма для кошек и собак AlphaPet и участвуйте в розыгрыше жилеток",
+            "special_offer_0_url": "https://4lapy.ru/shares/rozygrysh-alpha-pet/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.351",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1500",
+            "Длина, мм": "85",
+            "Ширина, мм": "205",
+            "Высота, мм": "351"
+        },
+        "GroupId": "146227",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "AlphaPet",
+        "Description": "\n\t Сухой полнорационный корм с индейкой и потрошками для взрослых стерилизованных кошек и котов AlphaPet WOW Superpremium.\n\nПреимущества:\n\n\t76% мясного белка;\n\t\n\tСвежее мясо в составе;\n\t\n\tНизкое содер",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-indeykoy2.html?offer=146229",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/901/9015988e0212549fa8ed4d79b406846d.jpg?nowebp=true",
+        "Name": "AlphaPet WOW Сухой корм для стерилизованных кошек с индейкой, 1,5 кг"
+    },
+    {
+        "OldPrice": 1515,
+        "Price": 1288,
+        "Weight": 8,
+        "ItemId": 146237,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9857",
+            "reviews": "70",
+            "Артикул": "1053741",
+            "all_IDs": "146237,146299",
+            "offline_buy": "false",
+            "subscribe_price": "1287.75",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Покупайте корма для кошек и собак AlphaPet и участвуйте в розыгрыше жилеток",
+            "special_offer_0_url": "https://4lapy.ru/shares/rozygrysh-alpha-pet/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.351",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "1500",
+            "Длина, мм": "85",
+            "Ширина, мм": "205",
+            "Высота, мм": "351"
+        },
+        "GroupId": "146236",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "AlphaPet",
+        "Description": "\n\t Сухой полнорационный корм с ягненком и индейкой для взрослых стерилизованных кошек и котов AlphaPet Superpremium.\n\nПреимущества:\n\n\t80% мясного белка;\n\t\n\t30% свежего мяса;\n\t\n\tНизкое содержание жира ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-yagnenkom-i-indeykoy.html?offer=146237",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/a5b/a5b2930feb57468717d8abff2ac7db58.jpg?nowebp=true",
+        "Name": "AlphaPet Сухой корм для стерилизованных кошек с ягненком и индейкой, 1,5 кг"
+    },
+    {
+        "OldPrice": 1015,
+        "Price": 812,
+        "Weight": 7,
+        "ItemId": 146266,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9667",
+            "reviews": "90",
+            "Артикул": "1053757",
+            "all_IDs": "146266,146275",
+            "offline_buy": "false",
+            "subscribe_price": "812",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Sirius: до -20% на сухой корм для кошек и собак",
+            "special_offer_0_url": "https://4lapy.ru/shares/sirius-do-20-na-sukhoy-korm-dlya-koshek-i-sobak-oct-2023/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.37",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1500",
+            "Длина, мм": "200",
+            "Ширина, мм": "100",
+            "Высота, мм": "370"
+        },
+        "GroupId": "146265",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Sirius",
+        "Description": "Преимущества:\n\nПрофилактика мочекаменной болезни. Сниженное содержание фосфора и кальция и, как следствие, общее снижение минерализации рациона способствует снижению нагрузки на мочеполовую систему, п",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-indeykoy-i-kuricey.html?offer=146266",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/b59/b598a925897bb00633188ba5b4567191.jpg?nowebp=true",
+        "Name": "Sirius Корм сухой для стерилизованных кошек, с индейкой и курицей, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1179,
+        "Weight": 6,
+        "ItemId": 146992,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9468",
+            "reviews": "188",
+            "Артикул": "1054021",
+            "all_IDs": "146991,146992,153005",
+            "offline_buy": "false",
+            "subscribe_price": "1179",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.195",
+            "group_id_2": "80000223",
+            "Страна-производитель": "Италия",
+            "Специальные показания": "Кастраты/Стерилизованные",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Ягненок",
+            "Вес, г": "1500",
+            "Длина, мм": "370",
+            "Ширина, мм": "105",
+            "Высота, мм": "195"
+        },
+        "GroupId": "146990",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "UNICA",
+        "Description": "\n\t Unica Classe – итальянский сухой корм супер-премиум класса, содержит животный белок в качестве первого компонента, цельнозерновой рис – как самый перевариваемый злак с контролируемым гликемическим ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-sterilizovannyh-koshek-s-yagnenkom.html?offer=146992",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/05b/05b0a149b14cbd732713492192f64fdf.jpg?nowebp=true",
+        "Name": "UNICA Adult Sterilized Luxury Hairball сухой корм для стерилизованных кошек с ягненком, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1029,
+        "Weight": 5,
+        "ItemId": 148178,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9646",
+            "reviews": "113",
+            "Артикул": "1054518",
+            "all_IDs": "148177,148178",
+            "offline_buy": "false",
+            "subscribe_price": "1029",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.38",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Лосось",
+            "Вес, г": "1500",
+            "Длина, мм": "60",
+            "Ширина, мм": "170",
+            "Высота, мм": "380"
+        },
+        "GroupId": "148176",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Wellkiss",
+        "Description": "\nWellkiss Корм для взрослых кошек с лососем — это полноценный, сбалансированный рацион для взрослых кошек старше 1 года. В состав рациона входят все необходимые для здоровья кошки компоненты. Корм не ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-koshek-s-lososem1.html?offer=148178",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/2da/2dac10bbbed3ad051f69625c49193dd7.png?nowebp=true",
+        "Name": "Wellkiss Adult Salmon Корм сухой для кошек, с лососем, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1029,
+        "Weight": 4,
+        "ItemId": 148191,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9369",
+            "reviews": "222",
+            "Артикул": "1054527",
+            "all_IDs": "148190,148191,148192",
+            "offline_buy": "false",
+            "subscribe_price": "1029",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.38",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Для привередливых",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "1500",
+            "Длина, мм": "60",
+            "Ширина, мм": "170",
+            "Высота, мм": "380"
+        },
+        "GroupId": "148189",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Wellkiss",
+        "Description": "\n\t WELLKISS корм для привередливых кошек с индейкой — это полноценный, сбалансированный рацион для взрослых кошек. Благодаря своим привлекательным вкусовым качествам придётся по вкусу даже самым приве",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-priveredlivyh-koshek-s-indeykoy.html?offer=148191",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/76d/76d5f45352000931da088be8152b3a5e.png?nowebp=true",
+        "Name": "Wellkiss Adult Exigent Корм сухой для привередливых кошек, с индейкой, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1499,
+        "Weight": 3,
+        "ItemId": 148702,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "4.9753",
+            "reviews": "162",
+            "Артикул": "1054705",
+            "all_IDs": "148700,148702",
+            "offline_buy": "false",
+            "subscribe_price": "1499",
+            "size": "1 кг 500 г",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.085",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для пожилых 7+ ",
+            "Вкус корма": "Курица",
+            "Вес, г": "1500",
+            "Длина, мм": "410",
+            "Ширина, мм": "189",
+            "Высота, мм": "85"
+        },
+        "GroupId": "148699",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Mealfeel",
+        "Description": "\nMEALFEEL SENIOR – сухой рацион на основе свежего мяса, разработанный специально для пожилых кошек (старше 7 лет). Сбалансированный состав корма MEALFEEL SENIOR учитывает все особенности возрастных пи",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-koshek-starshe-7-let-s-kuricey-i-indeykoy.html?offer=148702",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/279/279b2dfae0fe287d96cedfe1ec1f428d.jpg?nowebp=true",
+        "Name": "Mealfeel Корм сухой для кошек старше 7 лет, с курицей и индейкой, 1,5 кг"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 1999,
+        "Weight": 2,
+        "ItemId": 154260,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "5",
+            "reviews": "84",
+            "Артикул": "1056406",
+            "all_IDs": "154259,154260",
+            "offline_buy": "false",
+            "subscribe_price": "1999",
+            "size": "2 кг",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.085",
+            "Страна-производитель": "Россия",
+            "Специальные показания": "Универсальный",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Индейка",
+            "Вес, г": "2000",
+            "Длина, мм": "410",
+            "Ширина, мм": "189",
+            "Высота, мм": "85"
+        },
+        "GroupId": "154258",
+        "StockId": null,
+        "Size": "2 кг",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "Mealfeel",
+        "Description": "\n Mealfeel Large Breeds– корм, разработанный специально для крупных пород кошек.\n\n\n Поддержка опорно-двигательной системы, особо чувствительной у кошек крупных пород: входящие в состав глюкозамин и хо",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-vzroslyh-koshek-krupnyh-porod-s-indeykoy-i-kuricey-400g.html?offer=154260",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/1db/1db768adc4640f3f79b95e1f1f498f1d.jpg?nowebp=true",
+        "Name": "Mealfeel Корм сухой для взрослых кошек крупных пород, с индейкой и курицей, 2 кг"
+    },
+    {
+        "OldPrice": 1249,
+        "Price": 1062,
+        "Weight": 1,
+        "ItemId": 155319,
+        "CategoryIds": [
+            3
+        ],
+        "CategoryPathsToRoot": [
+            [
+                3,
+                2,
+                1
+            ]
+        ],
+        "Regions": null,
+        "CategoryNames": [
+            "Сухой корм"
+        ],
+        "Params": {
+            "rating": "5",
+            "reviews": "7",
+            "Артикул": "1056728",
+            "all_IDs": "155319",
+            "offline_buy": "false",
+            "subscribe_price": "1061.65",
+            "size": "1 кг 500 г",
+            "special_offer_0": "Unica: до -50% на сухой корм для кошек",
+            "special_offer_0_url": "https://4lapy.ru/shares/unica-15-na-sukhoy-korm-dlya-koshek/",
+            "Тип упаковки": "Пакет / Коробка",
+            "Объем": "0.195",
+            "Страна-производитель": "Италия",
+            "Специальные показания": "Крупные породы (для кошек)",
+            "Назначение": "Корма повседневные",
+            "Размер питомца": "",
+            "Тип корма": "Сухой",
+            "СТМ": "Да",
+            "Возраст питомца": "Для взрослых",
+            "Вкус корма": "Курица",
+            "Вес, г": "1500",
+            "Длина, мм": "370",
+            "Ширина, мм": "105",
+            "Высота, мм": "195"
+        },
+        "GroupId": "155318",
+        "StockId": null,
+        "Size": "1 кг 500 г",
+        "Color": null,
+        "Algorithm": "p",
+        "BuyUrl": null,
+        "Vendor": "UNICA",
+        "Description": "\n Adult large breed brillant-hairball сухой корм для кошек крупных пород с курицей\n\n\nUnica Classe – итальянский сухой корм супер-премиум класса, содержит животный белок в качестве первого компонента, ",
+        "TypePrefix": null,
+        "Model": null,
+        "Url": "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/korm-suhoy-dlya-koshek-krupnyh-porod-s-kuricey-1-5-kg.html?offer=155319",
+        "PictureUrl": "https://4lapy.ru/resize/200x200/upload/iblock/4df/4dfcf4bb1950a3921b1687073004d680.jpg?nowebp=true",
+        "Name": "UNICA Adult Large Breed Brillant-Hairball Сухой корм для кошек крупных пород, с курицей, 1,5 кг"
+    }
+]
